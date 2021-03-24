@@ -1,0 +1,5 @@
+config.specialabilities.togglecreeperexplode.comment=Here you can enable/disable the explosion ability with the Creeper disguise!
+config.specialabilities.togglecreeperexplode.name=Disguise Abilities - Explode
+
+config.specialabilities.toggleenderteleport.comment=Here you can enable/disable the teleport ability with the Enderman disguise!
+config.specialabilities.toggleenderteleport.name=Disguise Abilities - Teleport
